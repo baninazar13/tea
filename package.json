@@ -1,7 +1,7 @@
 {
   "name": "setengahmateng",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.2",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -24,5 +24,17 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baninazar13/tea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baninazar13/tea/issues"
+  },
+  "homepage": "https://github.com/baninazar13/tea#readme"
 }
